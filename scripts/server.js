@@ -1,7 +1,7 @@
 var Bot = require('../lib/').Bot;
 
 var b = new Bot({
-  jid: '669801_4684138@chat.hipchat.com/bot',
+  jid: '669801_4684138@chat.hipchat.com',
   password: 'jan@2017'
 });
 
