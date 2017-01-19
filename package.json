@@ -1,20 +1,13 @@
 {
-  "name": "wobot",
-  "version": "0.8.1",
-  "description": "A plugin-based HipChat bot.",
-  "keywords": ["bot", "hipchat"],
-  "homepage": "http://github.com/cjoudrey/wobot",
-  "author": "Christian Joudrey <cmallette@gmail.com> (http://twitter.com/cjoudrey)",
-  "repository": {
-    "type":"git",
-    "url":"git://github.com/cjoudrey/wobot"
-  },
+  "name": "myhipchatbot",
+  "version": "1.0.0",
+  "description": "chabot file",
+    
+  "author": "sudhanshuJha",
+  "license": "ISC",
+  "main": "scripts/server.js",
   "dependencies": {
     "node-xmpp": ">= 0.2.7",
     "underscore": ">= 1.1.6"
-  },
-  "main": "lib/index.js",
-  "engines": {
-    "node": ">= 0.4.1 < 0.7.0"
   }
 }
